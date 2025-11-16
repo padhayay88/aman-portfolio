@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Modern portfolio website built with React",
   "private": true,
-  "homepage": "https://yourusername.github.io/portfolio",
+  "homepage": "https://aman-portfolio-sand.vercel.app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
